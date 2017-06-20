@@ -1,2 +1,6 @@
 # acocluster
-Implementação em Python do algoritmo de clusterização utilizando colonia de formigas
+Implementação em Python 3 do algoritmo de clusterização utilizando colonia de formigas
+
+Executar o código 
+
+python3 acoalgorithm.py
