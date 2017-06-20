@@ -1,0 +1,14 @@
+Modularidade: 0.325000
+Tempo execução: 0.928703
+Número de Comunidades: 3
+Comunidades:
+0 3
+0 4
+0 7
+0 8
+0 9
+1 2
+1 5
+1 6
+2 0
+2 1
